@@ -1,0 +1,632 @@
+[
+  {
+    "timestamp": "2026-03-18T13:32:52.067146",
+    "subject": "Physics",
+    "planned_minutes": 30,
+    "actual_minutes": 27,
+    "focus_score": 0.76,
+    "distraction_count": 4,
+    "hour_of_day": 13,
+    "day_of_week": "Wednesday"
+  },
+  {
+    "timestamp": "2026-03-16T12:32:52.067146",
+    "subject": "Physics",
+    "planned_minutes": 60,
+    "actual_minutes": 23,
+    "focus_score": 0.67,
+    "distraction_count": 5,
+    "hour_of_day": 12,
+    "day_of_week": "Monday"
+  },
+  {
+    "timestamp": "2026-03-23T14:32:52.067146",
+    "subject": "History",
+    "planned_minutes": 30,
+    "actual_minutes": 34,
+    "focus_score": 0.83,
+    "distraction_count": 4,
+    "hour_of_day": 14,
+    "day_of_week": "Monday"
+  },
+  {
+    "timestamp": "2026-03-25T10:32:52.067146",
+    "subject": "History",
+    "planned_minutes": 45,
+    "actual_minutes": 28,
+    "focus_score": 0.72,
+    "distraction_count": 6,
+    "hour_of_day": 10,
+    "day_of_week": "Wednesday"
+  },
+  {
+    "timestamp": "2026-03-26T06:32:52.067146",
+    "subject": "Mathematics",
+    "planned_minutes": 30,
+    "actual_minutes": 57,
+    "focus_score": 0.86,
+    "distraction_count": 6,
+    "hour_of_day": 6,
+    "day_of_week": "Thursday"
+  },
+  {
+    "timestamp": "2026-03-19T13:32:52.067146",
+    "subject": "English",
+    "planned_minutes": 30,
+    "actual_minutes": 45,
+    "focus_score": 0.73,
+    "distraction_count": 3,
+    "hour_of_day": 13,
+    "day_of_week": "Thursday"
+  },
+  {
+    "timestamp": "2026-03-06T07:32:52.067146",
+    "subject": "Chemistry",
+    "planned_minutes": 60,
+    "actual_minutes": 33,
+    "focus_score": 0.78,
+    "distraction_count": 7,
+    "hour_of_day": 7,
+    "day_of_week": "Friday"
+  },
+  {
+    "timestamp": "2026-03-31T08:32:52.067146",
+    "subject": "History",
+    "planned_minutes": 45,
+    "actual_minutes": 31,
+    "focus_score": 0.93,
+    "distraction_count": 4,
+    "hour_of_day": 8,
+    "day_of_week": "Tuesday"
+  },
+  {
+    "timestamp": "2026-03-21T07:32:52.067146",
+    "subject": "Chemistry",
+    "planned_minutes": 45,
+    "actual_minutes": 23,
+    "focus_score": 0.49,
+    "distraction_count": 8,
+    "hour_of_day": 7,
+    "day_of_week": "Saturday"
+  },
+  {
+    "timestamp": "2026-04-03T12:32:52.067146",
+    "subject": "Physics",
+    "planned_minutes": 45,
+    "actual_minutes": 60,
+    "focus_score": 0.88,
+    "distraction_count": 2,
+    "hour_of_day": 12,
+    "day_of_week": "Friday"
+  },
+  {
+    "timestamp": "2026-03-24T11:32:52.067146",
+    "subject": "Mathematics",
+    "planned_minutes": 60,
+    "actual_minutes": 58,
+    "focus_score": 0.45,
+    "distraction_count": 3,
+    "hour_of_day": 11,
+    "day_of_week": "Tuesday"
+  },
+  {
+    "timestamp": "2026-03-23T11:32:52.067146",
+    "subject": "Physics",
+    "planned_minutes": 30,
+    "actual_minutes": 60,
+    "focus_score": 0.44,
+    "distraction_count": 2,
+    "hour_of_day": 11,
+    "day_of_week": "Monday"
+  },
+  {
+    "timestamp": "2026-03-29T11:32:52.067146",
+    "subject": "Mathematics",
+    "planned_minutes": 30,
+    "actual_minutes": 46,
+    "focus_score": 0.79,
+    "distraction_count": 8,
+    "hour_of_day": 11,
+    "day_of_week": "Sunday"
+  },
+  {
+    "timestamp": "2026-03-06T14:32:52.067146",
+    "subject": "English",
+    "planned_minutes": 30,
+    "actual_minutes": 46,
+    "focus_score": 0.97,
+    "distraction_count": 4,
+    "hour_of_day": 14,
+    "day_of_week": "Friday"
+  },
+  {
+    "timestamp": "2026-03-22T06:32:52.067146",
+    "subject": "History",
+    "planned_minutes": 45,
+    "actual_minutes": 59,
+    "focus_score": 0.62,
+    "distraction_count": 4,
+    "hour_of_day": 6,
+    "day_of_week": "Sunday"
+  },
+  {
+    "timestamp": "2026-04-03T09:32:52.067146",
+    "subject": "Physics",
+    "planned_minutes": 60,
+    "actual_minutes": 26,
+    "focus_score": 0.48,
+    "distraction_count": 6,
+    "hour_of_day": 9,
+    "day_of_week": "Friday"
+  },
+  {
+    "timestamp": "2026-04-01T09:32:52.067146",
+    "subject": "Mathematics",
+    "planned_minutes": 45,
+    "actual_minutes": 28,
+    "focus_score": 0.51,
+    "distraction_count": 4,
+    "hour_of_day": 9,
+    "day_of_week": "Wednesday"
+  },
+  {
+    "timestamp": "2026-03-20T11:32:52.067146",
+    "subject": "Chemistry",
+    "planned_minutes": 60,
+    "actual_minutes": 32,
+    "focus_score": 0.71,
+    "distraction_count": 7,
+    "hour_of_day": 11,
+    "day_of_week": "Friday"
+  },
+  {
+    "timestamp": "2026-03-14T09:32:52.067146",
+    "subject": "English",
+    "planned_minutes": 30,
+    "actual_minutes": 43,
+    "focus_score": 0.86,
+    "distraction_count": 0,
+    "hour_of_day": 9,
+    "day_of_week": "Saturday"
+  },
+  {
+    "timestamp": "2026-03-30T07:32:52.067146",
+    "subject": "English",
+    "planned_minutes": 60,
+    "actual_minutes": 27,
+    "focus_score": 0.61,
+    "distraction_count": 3,
+    "hour_of_day": 7,
+    "day_of_week": "Monday"
+  },
+  {
+    "timestamp": "2026-03-24T11:32:52.067146",
+    "subject": "Chemistry",
+    "planned_minutes": 30,
+    "actual_minutes": 47,
+    "focus_score": 0.5,
+    "distraction_count": 3,
+    "hour_of_day": 11,
+    "day_of_week": "Tuesday"
+  },
+  {
+    "timestamp": "2026-03-07T07:32:52.067146",
+    "subject": "History",
+    "planned_minutes": 30,
+    "actual_minutes": 22,
+    "focus_score": 0.67,
+    "distraction_count": 7,
+    "hour_of_day": 7,
+    "day_of_week": "Saturday"
+  },
+  {
+    "timestamp": "2026-04-01T09:32:52.067146",
+    "subject": "History",
+    "planned_minutes": 45,
+    "actual_minutes": 33,
+    "focus_score": 0.57,
+    "distraction_count": 2,
+    "hour_of_day": 9,
+    "day_of_week": "Wednesday"
+  },
+  {
+    "timestamp": "2026-04-01T07:32:52.067146",
+    "subject": "Physics",
+    "planned_minutes": 45,
+    "actual_minutes": 28,
+    "focus_score": 0.85,
+    "distraction_count": 2,
+    "hour_of_day": 7,
+    "day_of_week": "Wednesday"
+  },
+  {
+    "timestamp": "2026-03-24T08:32:52.067146",
+    "subject": "Chemistry",
+    "planned_minutes": 30,
+    "actual_minutes": 46,
+    "focus_score": 0.95,
+    "distraction_count": 3,
+    "hour_of_day": 8,
+    "day_of_week": "Tuesday"
+  },
+  {
+    "timestamp": "2026-04-02T12:32:52.067146",
+    "subject": "Chemistry",
+    "planned_minutes": 60,
+    "actual_minutes": 47,
+    "focus_score": 0.46,
+    "distraction_count": 2,
+    "hour_of_day": 12,
+    "day_of_week": "Thursday"
+  },
+  {
+    "timestamp": "2026-03-30T07:32:52.067146",
+    "subject": "Chemistry",
+    "planned_minutes": 30,
+    "actual_minutes": 31,
+    "focus_score": 0.92,
+    "distraction_count": 8,
+    "hour_of_day": 7,
+    "day_of_week": "Monday"
+  },
+  {
+    "timestamp": "2026-03-22T13:32:52.067146",
+    "subject": "Physics",
+    "planned_minutes": 30,
+    "actual_minutes": 49,
+    "focus_score": 0.85,
+    "distraction_count": 6,
+    "hour_of_day": 13,
+    "day_of_week": "Sunday"
+  },
+  {
+    "timestamp": "2026-03-15T12:32:52.067146",
+    "subject": "History",
+    "planned_minutes": 30,
+    "actual_minutes": 51,
+    "focus_score": 0.84,
+    "distraction_count": 7,
+    "hour_of_day": 12,
+    "day_of_week": "Sunday"
+  },
+  {
+    "timestamp": "2026-03-24T07:32:52.067146",
+    "subject": "History",
+    "planned_minutes": 60,
+    "actual_minutes": 43,
+    "focus_score": 0.72,
+    "distraction_count": 0,
+    "hour_of_day": 7,
+    "day_of_week": "Tuesday"
+  },
+  {
+    "timestamp": "2026-03-30T13:32:52.067146",
+    "subject": "Chemistry",
+    "planned_minutes": 30,
+    "actual_minutes": 31,
+    "focus_score": 0.76,
+    "distraction_count": 4,
+    "hour_of_day": 13,
+    "day_of_week": "Monday"
+  },
+  {
+    "timestamp": "2026-03-18T11:32:52.067146",
+    "subject": "English",
+    "planned_minutes": 30,
+    "actual_minutes": 27,
+    "focus_score": 0.47,
+    "distraction_count": 1,
+    "hour_of_day": 11,
+    "day_of_week": "Wednesday"
+  },
+  {
+    "timestamp": "2026-03-25T12:32:52.067146",
+    "subject": "English",
+    "planned_minutes": 30,
+    "actual_minutes": 41,
+    "focus_score": 0.43,
+    "distraction_count": 7,
+    "hour_of_day": 12,
+    "day_of_week": "Wednesday"
+  },
+  {
+    "timestamp": "2026-03-11T06:32:52.067146",
+    "subject": "Chemistry",
+    "planned_minutes": 45,
+    "actual_minutes": 32,
+    "focus_score": 0.91,
+    "distraction_count": 3,
+    "hour_of_day": 6,
+    "day_of_week": "Wednesday"
+  },
+  {
+    "timestamp": "2026-03-30T14:32:52.067146",
+    "subject": "History",
+    "planned_minutes": 45,
+    "actual_minutes": 44,
+    "focus_score": 0.83,
+    "distraction_count": 4,
+    "hour_of_day": 14,
+    "day_of_week": "Monday"
+  },
+  {
+    "timestamp": "2026-03-05T10:32:52.067146",
+    "subject": "English",
+    "planned_minutes": 45,
+    "actual_minutes": 30,
+    "focus_score": 0.74,
+    "distraction_count": 0,
+    "hour_of_day": 10,
+    "day_of_week": "Thursday"
+  },
+  {
+    "timestamp": "2026-03-18T09:32:52.067146",
+    "subject": "Mathematics",
+    "planned_minutes": 30,
+    "actual_minutes": 37,
+    "focus_score": 0.49,
+    "distraction_count": 2,
+    "hour_of_day": 9,
+    "day_of_week": "Wednesday"
+  },
+  {
+    "timestamp": "2026-03-21T09:32:52.067146",
+    "subject": "Physics",
+    "planned_minutes": 60,
+    "actual_minutes": 38,
+    "focus_score": 0.83,
+    "distraction_count": 6,
+    "hour_of_day": 9,
+    "day_of_week": "Saturday"
+  },
+  {
+    "timestamp": "2026-03-15T08:32:52.067146",
+    "subject": "History",
+    "planned_minutes": 60,
+    "actual_minutes": 19,
+    "focus_score": 0.74,
+    "distraction_count": 2,
+    "hour_of_day": 8,
+    "day_of_week": "Sunday"
+  },
+  {
+    "timestamp": "2026-03-16T12:32:52.067146",
+    "subject": "History",
+    "planned_minutes": 30,
+    "actual_minutes": 28,
+    "focus_score": 0.61,
+    "distraction_count": 7,
+    "hour_of_day": 12,
+    "day_of_week": "Monday"
+  },
+  {
+    "timestamp": "2026-04-02T08:32:52.067146",
+    "subject": "Mathematics",
+    "planned_minutes": 60,
+    "actual_minutes": 19,
+    "focus_score": 0.52,
+    "distraction_count": 7,
+    "hour_of_day": 8,
+    "day_of_week": "Thursday"
+  },
+  {
+    "timestamp": "2026-03-30T09:32:52.067146",
+    "subject": "History",
+    "planned_minutes": 45,
+    "actual_minutes": 46,
+    "focus_score": 0.89,
+    "distraction_count": 1,
+    "hour_of_day": 9,
+    "day_of_week": "Monday"
+  },
+  {
+    "timestamp": "2026-03-13T06:32:52.067146",
+    "subject": "Mathematics",
+    "planned_minutes": 45,
+    "actual_minutes": 57,
+    "focus_score": 0.72,
+    "distraction_count": 0,
+    "hour_of_day": 6,
+    "day_of_week": "Friday"
+  },
+  {
+    "timestamp": "2026-03-18T08:32:52.067146",
+    "subject": "Chemistry",
+    "planned_minutes": 60,
+    "actual_minutes": 29,
+    "focus_score": 0.41,
+    "distraction_count": 5,
+    "hour_of_day": 8,
+    "day_of_week": "Wednesday"
+  },
+  {
+    "timestamp": "2026-04-02T14:32:52.067146",
+    "subject": "English",
+    "planned_minutes": 60,
+    "actual_minutes": 49,
+    "focus_score": 0.87,
+    "distraction_count": 4,
+    "hour_of_day": 14,
+    "day_of_week": "Thursday"
+  },
+  {
+    "timestamp": "2026-03-07T07:32:52.067146",
+    "subject": "Chemistry",
+    "planned_minutes": 60,
+    "actual_minutes": 48,
+    "focus_score": 0.43,
+    "distraction_count": 8,
+    "hour_of_day": 7,
+    "day_of_week": "Saturday"
+  },
+  {
+    "timestamp": "2026-03-20T07:32:52.067146",
+    "subject": "English",
+    "planned_minutes": 60,
+    "actual_minutes": 33,
+    "focus_score": 0.8,
+    "distraction_count": 2,
+    "hour_of_day": 7,
+    "day_of_week": "Friday"
+  },
+  {
+    "timestamp": "2026-03-15T13:32:52.067146",
+    "subject": "Physics",
+    "planned_minutes": 60,
+    "actual_minutes": 42,
+    "focus_score": 0.57,
+    "distraction_count": 2,
+    "hour_of_day": 13,
+    "day_of_week": "Sunday"
+  },
+  {
+    "timestamp": "2026-03-09T12:32:52.067146",
+    "subject": "Physics",
+    "planned_minutes": 45,
+    "actual_minutes": 52,
+    "focus_score": 0.73,
+    "distraction_count": 5,
+    "hour_of_day": 12,
+    "day_of_week": "Monday"
+  },
+  {
+    "timestamp": "2026-03-25T06:32:52.067146",
+    "subject": "Chemistry",
+    "planned_minutes": 30,
+    "actual_minutes": 50,
+    "focus_score": 0.72,
+    "distraction_count": 7,
+    "hour_of_day": 6,
+    "day_of_week": "Wednesday"
+  },
+  {
+    "timestamp": "2026-03-17T14:32:52.067146",
+    "subject": "Physics",
+    "planned_minutes": 30,
+    "actual_minutes": 46,
+    "focus_score": 0.6,
+    "distraction_count": 7,
+    "hour_of_day": 14,
+    "day_of_week": "Tuesday"
+  },
+  {
+    "timestamp": "2026-03-25T11:32:52.067146",
+    "subject": "Chemistry",
+    "planned_minutes": 30,
+    "actual_minutes": 45,
+    "focus_score": 0.91,
+    "distraction_count": 5,
+    "hour_of_day": 11,
+    "day_of_week": "Wednesday"
+  },
+  {
+    "timestamp": "2026-03-25T09:32:52.067146",
+    "subject": "Chemistry",
+    "planned_minutes": 45,
+    "actual_minutes": 47,
+    "focus_score": 0.74,
+    "distraction_count": 0,
+    "hour_of_day": 9,
+    "day_of_week": "Wednesday"
+  },
+  {
+    "timestamp": "2026-03-19T06:32:52.067146",
+    "subject": "English",
+    "planned_minutes": 30,
+    "actual_minutes": 58,
+    "focus_score": 0.89,
+    "distraction_count": 7,
+    "hour_of_day": 6,
+    "day_of_week": "Thursday"
+  },
+  {
+    "timestamp": "2026-03-27T13:32:52.067146",
+    "subject": "Physics",
+    "planned_minutes": 60,
+    "actual_minutes": 60,
+    "focus_score": 0.46,
+    "distraction_count": 2,
+    "hour_of_day": 13,
+    "day_of_week": "Friday"
+  },
+  {
+    "timestamp": "2026-03-31T09:32:52.067146",
+    "subject": "Chemistry",
+    "planned_minutes": 60,
+    "actual_minutes": 53,
+    "focus_score": 0.54,
+    "distraction_count": 4,
+    "hour_of_day": 9,
+    "day_of_week": "Tuesday"
+  },
+  {
+    "timestamp": "2026-03-09T08:32:52.067146",
+    "subject": "Physics",
+    "planned_minutes": 60,
+    "actual_minutes": 58,
+    "focus_score": 0.42,
+    "distraction_count": 0,
+    "hour_of_day": 8,
+    "day_of_week": "Monday"
+  },
+  {
+    "timestamp": "2026-04-03T13:32:52.067146",
+    "subject": "Chemistry",
+    "planned_minutes": 45,
+    "actual_minutes": 60,
+    "focus_score": 0.57,
+    "distraction_count": 1,
+    "hour_of_day": 13,
+    "day_of_week": "Friday"
+  },
+  {
+    "timestamp": "2026-03-16T12:32:52.067146",
+    "subject": "Physics",
+    "planned_minutes": 45,
+    "actual_minutes": 60,
+    "focus_score": 0.82,
+    "distraction_count": 3,
+    "hour_of_day": 12,
+    "day_of_week": "Monday"
+  },
+  {
+    "timestamp": "2026-03-15T06:32:52.067146",
+    "subject": "Physics",
+    "planned_minutes": 30,
+    "actual_minutes": 28,
+    "focus_score": 0.84,
+    "distraction_count": 0,
+    "hour_of_day": 6,
+    "day_of_week": "Sunday"
+  },
+  {
+    "timestamp": "2026-04-04T15:01:23.242592",
+    "subject": "Physics",
+    "planned_minutes": 40,
+    "actual_minutes": 30,
+    "focus_score": 0.8,
+    "distraction_count": 3,
+    "hour_of_day": 15,
+    "day_of_week": "Saturday"
+  },
+  {
+    "timestamp": "2026-04-04T15:14:47.484137",
+    "subject": "Mathematics",
+    "planned_minutes": 45,
+    "actual_minutes": 40,
+    "focus_score": 0.8,
+    "distraction_count": 2,
+    "hour_of_day": 15,
+    "day_of_week": "Saturday"
+  },
+  {
+    "timestamp": "2026-04-04T16:58:19.341319",
+    "subject": "Chemistry",
+    "planned_minutes": 60,
+    "actual_minutes": 50,
+    "focus_score": 0.7,
+    "distraction_count": 4,
+    "hour_of_day": 16,
+    "day_of_week": "Saturday"
+  }
+]
