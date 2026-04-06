@@ -1,0 +1,38 @@
+{
+  "name": "Divjot Bedi",
+  "subjects": [
+    {
+      "name": "Mathematics",
+      "difficulty": 1,
+      "hours_pending": 8,
+      "exam_days": 6
+    },
+    {
+      "name": "Physics",
+      "difficulty": 4,
+      "hours_pending": 6,
+      "exam_days": 10
+    },
+    {
+      "name": "Chemistry",
+      "difficulty": 3,
+      "hours_pending": 5,
+      "exam_days": 12
+    },
+    {
+      "name": "English",
+      "difficulty": 2,
+      "hours_pending": 3,
+      "exam_days": 14
+    },
+    {
+      "name": "History",
+      "difficulty": 2,
+      "hours_pending": 4,
+      "exam_days": 20
+    }
+  ],
+  "focus_goal_minutes": 180,
+  "preferred_session_length": 45,
+  "break_length": 10
+}
