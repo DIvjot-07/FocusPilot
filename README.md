@@ -130,7 +130,3 @@ Output
 - [ ] Browser extension for passive focus tracking
 - [ ] Full AI productivity assistant
 - [ ] Institutional licensing model
-
----
-
-*Built with ❤️ and ☕ for CODE 1 Hackathon*
